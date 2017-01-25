@@ -1,0 +1,14 @@
+
+url
+
+http://jingyan.baidu.com/article/e73e26c0bad76224acb6a766.html
+
+跟着教程走的时候，第三步记得复制安装地址 也就是 Customize install location 的地址
+
+如： C:\Program Files\Python35 然后打开系统环境变量的Path变量，粘贴进去就好，
+
+然后 cmd 打开黑窗口，输入 python 看看
+
+
+
+
